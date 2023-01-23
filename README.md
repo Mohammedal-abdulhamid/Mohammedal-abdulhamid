@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Mohammed
-#### junior full stack developer
+#### Junior ull stack developer
 
 Skills:  REACT / JS / HTML / CSS/Express/SQL
 
