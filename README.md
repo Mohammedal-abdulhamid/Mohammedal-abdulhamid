@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS/Express/SQL
 
 ![Mohammed Alabdulhamid](https://github.com/Mohammedal-abdulhamid.png)
 <img src="https://github.com/Mohammedal-abdulhamid.png" alt="Mohammed alabdulhamid photo" width="40">
-[![Mohammedal-abdulhamid](https://github.com/Mohammedal-abdulhamid.png)](https://github.com/Mohammedal-abdulhamid)
+[![Mohammedal-abdulhamid](https://github.com/Mohammedal-abdulhamid.png) alt="Mohammed alabdulhamid photo" width="40"](https://github.com/Mohammedal-abdulhamid)
 
 
 <a href="https://www.linkedin.com/in/mohammed-alabdulhamid-445455209/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
