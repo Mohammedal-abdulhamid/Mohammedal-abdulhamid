@@ -16,4 +16,4 @@ Skills:  REACT / JS / HTML / CSS/Express/SQL
 
 <a href="https://www.linkedin.com/in/mohammed-alabdulhamid-445455209/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
-<a href='https://mohammed-file.netlify.app/'> <img src ='https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_23-256.png' alt='portfolio icon'></a>
+<a href='https://mohammed-file.netlify.app/' target= '_blank'> <img src ='https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_23-256.png' alt='portfolio icon' width = '200px'></a>
