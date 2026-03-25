@@ -3,10 +3,10 @@ Hello 👋, my name is Mohammed
 
 Skills:  REACT / JS / HTML / CSS/Express/SQL
 
-- 🔭 I graduated as a full stack developer from Code Your Future CYF. 
+- 🔭 I graduated as a fullstack developer from Code Your Future CYF. 
 - 🌱 I’m currently learning computer science at The Open University 
 - 👯 I’m looking to master problem-solving and keep learning new things 
-- 😄  I like to solve and learn from challenging problems <br>
+- 🙂  I like to solve and learn from challenging problems <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammedal-abdulhamid&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedal-abdulhamid)](https://github.com/anuraghazra/github-readme-stats)
 
