@@ -1,19 +1,14 @@
-Hello 👋, my name is Mohammed
-#### Full stack developer
+### Hello 👋, my name is Mohammed
+#### Data Engineer | Full stack developer
 
-Skills:  REACT / JS / HTML / CSS/Express/SQL
+Skills: Python / Javascript / FastApi / React / AWS / HTML / CSS / Express / SQL
 
 - Junior Data Engineer at Northcoders
-- I graduated as a fullstack developer from Code Your Future CYF. 
--  computer science graduated from The Open University 
+- I graduated as a fullstack developer from Code Your Future 
+- Computer science graduated from The Open University 
 - I’m looking to master problem-solving and keep learning new things 
 - 🙂  I like to solve and learn from challenging problems <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammedal-abdulhamid&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedal-abdulhamid)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-
-[<img src="https://github.com/Mohammedal-abdulhamid.png" alt="Mohammed Al-Abdulhamid's GitHub Profile Icon" width="40" />](https://github.com/Mohammedal-abdulhamid)
 
 
 
